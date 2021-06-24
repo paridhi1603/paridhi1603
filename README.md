@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](name-of-giphy.gif)
 <!--
 **paridhi1603/paridhi1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
