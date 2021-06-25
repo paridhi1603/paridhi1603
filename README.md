@@ -8,11 +8,14 @@
 
 #### About Me!
 
-- 🔭 I’m currently a senior majoring in Computational Data Sciences at Pennsylvania State University
+- 🔭 A senior majoring in Computational Data Sciences at Pennsylvania State University
+- 💪 Currently doing an internship at DCodeAI as an AI Content Design Intern (https://dcodeai.com/)
+- 👯 Looking to collaborate on Data Science Projects/Analysis
+- 📫 Feel free to reach out to me at: paridhi1603@gmail.com
+
 <!--
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
