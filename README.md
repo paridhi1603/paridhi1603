@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<p align ="center">   
+<!--<p align ="center">   
   <img alt="GIF" src="https://media.giphy.com/media/7dVJH2FqQ3ilaNacbS/giphy.gif" width="70%"/>
 
-</p>
+</p> -->
 
 
 #### About Me!
